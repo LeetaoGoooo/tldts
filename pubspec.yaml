@@ -1,0 +1,10 @@
+name: tldts
+description: "tldts is a Dart library to extract hostnames, domains, public suffixes, top-level domains and subdomains from URLs."
+version: 0.0.1-beta
+homepage: https://github.com/leetaogoooo/tldts
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dev_dependencies:
+  test: ^1.25.2
